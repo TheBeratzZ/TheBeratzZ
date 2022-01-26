@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheBeratzZ
+- 👀 I’m interested in web developer
+- 🌱 I’m currently learning python
+- 📫 How to reach me info@onlyberat.com
