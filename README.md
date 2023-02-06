@@ -1,6 +1,6 @@
 ## Muhammed Berat
 <tr> 
-           All Links
+-----------All Links-----------
  </tr>
 <tr>
 <td><a href="https://createapps.com.tr">
