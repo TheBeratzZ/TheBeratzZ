@@ -1,6 +1,4 @@
-<img align="right" alt="avatar" width="200" src="https://i.ibb.co/VvTMF5Z/The-Berat-Dog-loving-a-human-in-2077-ce499163-bbc7-4870-b6ab-cba38fffe841-1.png"> 
-
-## Developer 👋  Berat
+## Muhammed Berat
 <tr> 
            All Links
  </tr>
